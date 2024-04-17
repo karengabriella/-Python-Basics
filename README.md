@@ -12,25 +12,25 @@ Método PBL, Aprendizado baseado em Projetos.
    
    * 2020
 
-   🖥️ [Curso Python - Guanabara](https://www.google.com/search?q=curso+em+video+python&oq=curso+em+vid&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQBRhA0gEIMzgyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:9d23ffe1,vid:S9uPNppGsGo,st:0)
+    🖥️ [Curso Python - Guanabara](https://www.google.com/search?q=curso+em+video+python&oq=curso+em+vid&gs_lcrp=EgZjaHJvbWUqBwgCEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIGCAcQBRhA0gEIMzgyM2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:9d23ffe1,vid:S9uPNppGsGo,st:0)
 
    * 2020
-   📖pdf [Introdução a Python com Aplicações de Sistemas Operacionais](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%C3%87%C3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y)
+    📖 pdf [Introdução a Python com Aplicações de Sistemas Operacionais](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%C3%87%C3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y)
 
    * 2023 Projetos Privados: 
 
-   Automação de valores comerciais para exportação utilizando RPA  em Python. | [AthenasCode](https://github.com/Athenas-Code)
+     Automação de valores comerciais para exportação utilizando RPA  em Python. | [AthenasCode](https://github.com/Athenas-Code)
 
-   Leitura e exportação de dados especificos de uma grande massa de pdfs, para conversão em Excel. | [AthenasCode](https://github.com/Athenas-Code)
+     Leitura e exportação de dados especificos de uma grande massa de pdfs, para conversão em Excel. | [AthenasCode](https://github.com/Athenas-Code)
 
 * Novas experiências:
 
    * 2024
-   📖 pdf [Aprenda Python 3 do Jeito Certo](https://altabooks.com.br/wp-content/uploads/2019/11/AMOSTRA_AprendaPythonDoJeitoCerto-1.pdf)
+     📖 pdf [Aprenda Python 3 do Jeito Certo](https://altabooks.com.br/wp-content/uploads/2019/11/AMOSTRA_AprendaPythonDoJeitoCerto-1.pdf)
 
    * 2024
-   Jornada Python DIO
-   Bootcamp Python AI Backend Developer
+    Jornada Python DIO
+    Bootcamp Python AI Backend Developer
 
 # Onde tudo começou?
 
