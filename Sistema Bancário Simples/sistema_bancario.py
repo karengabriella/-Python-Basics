@@ -1,3 +1,27 @@
+import re
+
+def criar_usuario(usuarios, cpf, nome, nascimento):
+  
+  cpf = re.sub(r'\D', '', cpf)
+  
+  if cpf in usuarios:
+    print("Usuário já cadastrado")
+  else:
+    usuarios[cpf] = cpf
+    usuarios[cpf] = {'nome': nome, 'nascimento': nascimento}
+  return usuarios
+
+
+def criar_conta(usuario, cpf, contas, numero, saldo):
+  
+  if cpf in contas:
+    print("Conta já cadastrada")
+  else:
+    contas[cpf] = cpf
+    contas[cpf] = {'numero': numero, 'saldo': saldo}
+    usuario[cpf]['conta'] = contas[cpf]
+  return usuario
+
 def deposito(saldo):
   valor = int(input("Qual valor irá depositar?  "))
   if(valor <= 0):
